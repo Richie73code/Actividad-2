@@ -1,0 +1,10 @@
+Estructura de control 
+nos permite manejar y tener mas control sobre nuestro código y de esste modo
+podemos darle la correcta orientación en funcionn  de ciertas condiciones 
+lo que en adenlante conoceremos bifurcaciones o bucles.
+
+bucle ciclo for /// es el único que hace repetivos 
+para que sirve?
+las bifurvcaciones nos permiten ir por un camino u otro si se cumplen la codición
+o ir por el camino necesari hasta que la condición se cumpla.
+
